@@ -6,7 +6,7 @@ import { Observable } from 'rxjs';
   providedIn: 'root'
 })
 export class MovieService {
-
+//ighgftffdfdr
   constructor(private http:HttpClient) { }
 
   getMovieData():Observable<any>{
